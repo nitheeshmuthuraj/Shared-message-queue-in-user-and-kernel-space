@@ -13,8 +13,6 @@
 #include<linux/input.h>
 #define queue_length 10
 
-///dsfahkdsjhflkjhdslkjfh
-
 static  inline volatile unsigned long long RDTSC(void)
 {
     unsigned hi,lo;
