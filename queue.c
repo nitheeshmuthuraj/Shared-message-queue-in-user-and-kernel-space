@@ -13,8 +13,6 @@
 #include<linux/input.h>
 #define queue_length 10
 
-//learning git repo 
-// adding second line
 static  inline volatile unsigned long long RDTSC(void)
 {
     unsigned hi,lo;
